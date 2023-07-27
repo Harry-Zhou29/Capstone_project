@@ -10,11 +10,11 @@ How can we use regression and machine learning techniques to predict whether an 
 
 #### Dataset
 
-Original data:
+- Original data:
 The Main dataset is huge. you can find on the CDC's official website. This is the link:https://www.cdc.gov/brfss/annual_data/annual_2021.html
 
-Cleaned data:
-diabetes_health_indicators_BRFSS2021.csv is the cleaned data.
+- Cleaned data:
+**diabetes_health_indicators_BRFSS2021.csv is the cleaned data.**
 
 #### Jupyter notebook
 
