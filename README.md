@@ -38,4 +38,5 @@ We have 4 Jupyter notebooks:
 
 - Part4:Diabetes_prediction_project_part4-Model Evaluation
      - Evaluation of different model performances.
-    
+- Business report
+  Diabetes Prediction Project Report.pdf
