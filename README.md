@@ -11,7 +11,8 @@ How can we use regression and machine learning techniques to predict whether an 
 #### Dataset
 
 - Original data:
-The Main dataset is huge. you can find on the CDC's official website. This is the link:https://www.cdc.gov/brfss/annual_data/annual_2021.html
+- LLCP2021.XPT
+You can find this dataset on the CDC's official website. The link is:https://www.cdc.gov/brfss/annual_data/annual_2021.html
 
 - Cleaned data:
 **diabetes_health_indicators_BRFSS2021.csv is the cleaned data.**
