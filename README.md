@@ -12,7 +12,7 @@ How can we use regression and machine learning techniques to predict whether an 
 
 - Original data:
 - LLCP2021.XPT
-- You can find this dataset on the CDC's official website. The link is:https://www.cdc.gov/brfss/annual_data/annual_2021.html
+- The original dataset is huge, and I can not pack it into the submission. You can find this dataset on the CDC's official website. The link is:https://www.cdc.gov/brfss/annual_data/annual_2021.html
 
 - Cleaned data:
 **diabetes_health_indicators_BRFSS2021.csv is the cleaned data.**
